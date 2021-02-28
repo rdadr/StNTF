@@ -6,10 +6,11 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import ContactUs from './components/pages/ContactUs';
-import SignUp from './components/pages/Sign/SignIn';
+import SignIn from './components/pages/Sign/SignIn';
+import SignUp from './components/pages/Sign/SignUp';
 import Marketing from './components/pages/Marketing';
 import Consulting from './components/pages/Consulting';
-import SignIn from './components/pages/Sign/SignIn';
+
 
 function App() {
   return (

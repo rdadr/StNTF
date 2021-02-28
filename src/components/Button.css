@@ -24,11 +24,11 @@
 }
 
 .warning-btn {
-  padding: 8px 200px;
+  padding: 8px 100px;
   border-radius: 4px;
   outline: none;
   border: none;
-  font-size: 3rem;
+  font-size: 2rem;
   color: #fff;
   cursor: pointer;
   background: #2d3b4d;
