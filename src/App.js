@@ -1,15 +1,15 @@
 import React from 'react';
-import Navbar from './components/Navbar';
+import Navbar from './components/Navbar/Navbar';
 import './App.css';
-import Home from './components/pages/Home';
+import Home from './components/pages/Home/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Services from './components/pages/Services';
-import Products from './components/pages/Products';
-import ContactUs from './components/pages/ContactUs';
+import Services from './components/pages/Services/Services';
+import Products from './components/pages/Products/Products';
+import Dashboard from './components/pages/Dashboard/Dashboard';
 import SignIn from './components/pages/Sign/SignIn';
 import SignUp from './components/pages/Sign/SignUp';
-import Marketing from './components/pages/Marketing';
-import Consulting from './components/pages/Consulting';
+import Marketing from './components/pages/Marketing/Marketing';
+import Consulting from './components/pages/Consulting/Consulting';
 
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
         <Route path='/' exact component={Home} />
         <Route path='/services' component={Services} />
         <Route path='/products' component={Products} />
-        <Route path='/contact-us' component={ContactUs} />
+        <Route path='/Dashboard' component={Dashboard} />
         <Route path='/sign-in' component={SignIn} />
         <Route path='/sign-up' component={SignUp} />
         <Route path='/marketing' component={Marketing} />

@@ -1,13 +1,13 @@
 import React from 'react';
 import '../../../App.css';
-import '../../Button.css';
+import '../../Button/Button.css';
 import './Sign.css'
 
 export default function SignUp() {
   return(  
     <div  className='sign'>
   <h4 >From quality to loyalty!</h4>
-  <h3>Register<br/>Please fill in this form to create an account</h3>
+  <h3>Please fill in this form to create an account</h3>
         <hr/>
         <form className='form' action="http://star-it-api.herokuapp.com/" method="GET">
           <label htmlFor="username">Your Name:</label><br/>

@@ -1,5 +1,7 @@
 :root {
   --primary: #1888ff;
+  --blue-900: #2d3b4d;
+
 }
 
 .btn {
@@ -31,7 +33,7 @@
   font-size: 2rem;
   color: #fff;
   cursor: pointer;
-  background: #2d3b4d;
+  background-color: var(--blue-900);
 }
 
 .warning-btn:hover {
