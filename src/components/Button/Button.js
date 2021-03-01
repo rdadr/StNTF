@@ -8,10 +8,4 @@ export function Button() {
       <button className='btn'>Sign In</button>
     </Link>
   );
-
-  return(
-    <Link to='sign-up'>
-      <button className='btn'>Sign Up</button>
-    </Link>
-  );
 }
