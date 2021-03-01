@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3916719fca7b828846b1e66272b08c4",
+    "revision": "127b9f8206fb9c1bf401d228ec9b4658",
     "url": "/StNFT/index.html"
   },
   {
-    "revision": "edb6804a1693efd61cc4",
+    "revision": "09a80b3a912325ee937c",
     "url": "/StNFT/static/css/main.e1a2ffaf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StNFT/static/js/2.069a1280.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edb6804a1693efd61cc4",
-    "url": "/StNFT/static/js/main.250b4327.chunk.js"
+    "revision": "09a80b3a912325ee937c",
+    "url": "/StNFT/static/js/main.98d266f8.chunk.js"
   },
   {
     "revision": "5fffd2a62a1c723acef9",
