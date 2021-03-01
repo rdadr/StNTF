@@ -6,7 +6,7 @@ export default function Dashboard() {
   <div  className='dashboard'>
     <h3>supermarket rating</h3>
   </div>);
-  return (
+  /*return (
     <div className="row">
 			<div className="wp-bar bar">
       <div className="col-sm-3 col-xs-3">
@@ -25,5 +25,5 @@ export default function Dashboard() {
 
       </div>
   </div>
-  );
+  );*/
 }
