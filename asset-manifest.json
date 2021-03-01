@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StNFT/static/css/main.e1a2ffaf.chunk.css",
+    "main.js": "/StNFT/static/js/main.250b4327.chunk.js",
+    "main.js.map": "/StNFT/static/js/main.250b4327.chunk.js.map",
+    "runtime-main.js": "/StNFT/static/js/runtime-main.f81c6414.js",
+    "runtime-main.js.map": "/StNFT/static/js/runtime-main.f81c6414.js.map",
+    "static/js/2.069a1280.chunk.js": "/StNFT/static/js/2.069a1280.chunk.js",
+    "static/js/2.069a1280.chunk.js.map": "/StNFT/static/js/2.069a1280.chunk.js.map",
+    "index.html": "/StNFT/index.html",
+    "precache-manifest.1653b7e98958a511a8f0834ee0c61bc4.js": "/StNFT/precache-manifest.1653b7e98958a511a8f0834ee0c61bc4.js",
+    "service-worker.js": "/StNFT/service-worker.js",
+    "static/css/main.e1a2ffaf.chunk.css.map": "/StNFT/static/css/main.e1a2ffaf.chunk.css.map",
+    "static/js/2.069a1280.chunk.js.LICENSE.txt": "/StNFT/static/js/2.069a1280.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/StNFT/static/media/img-6.bd11375f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81c6414.js",
+    "static/js/2.069a1280.chunk.js",
+    "static/css/main.e1a2ffaf.chunk.css",
+    "static/js/main.250b4327.chunk.js"
+  ]
+}
