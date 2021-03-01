@@ -1,5 +1,6 @@
 {
-  "name": "StNFT",
+  "homepage": "https://rdadr.github.io/",
+  "name": "stnft",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
