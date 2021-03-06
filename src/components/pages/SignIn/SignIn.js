@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../../../App.css';
 import '../../Button/Button.css';
-import './Sign.css'
+import './SignIn.css'
 
-export default function SignIn() {
+const SignIn=() => {
   return(  
     <div  className='sign'>
   <h4 >From quality to loyalty!</h4>
@@ -23,3 +23,5 @@ export default function SignIn() {
         </div>
   );
 }
+
+export {SignIn}

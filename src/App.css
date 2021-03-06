@@ -4,7 +4,7 @@
   padding: 0;
   font-family: 'PT Sans', sans-serif;
 }
-
+/*
 .home,
 .services,
 .products,
@@ -18,53 +18,7 @@
   font-size: 1,5rem;
   text-align: center;
 }
-
-.home {
-  background-image: url('./images/img-1.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  text-transform: uppercase;
-}
-
-.services {
-  background-image: url('./images/img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.products {
-  background-image: url('./images/img-3.jpg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.dashboard {
-  background-image: url('./images/img-4.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  text-transform: uppercase;
-
-}
   
-.marketing {
-  background-image: url('./images/img-6.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
 .consulting {
   background-image: url('./images/img-5.jpg');
   background-position: bottom;
@@ -73,5 +27,5 @@
   color: #fff;
   font-size: 100px;
 }
-
+*/
 

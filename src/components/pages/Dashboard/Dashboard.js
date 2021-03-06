@@ -1,7 +1,8 @@
 import React from 'react';
 import '../../../App.css';
+import './Dashboard.css'
 
-export default function Dashboard() {
+const Dashboard =() => {
   return (
   <div  className='dashboard'>
     <h3>supermarket rating</h3>
@@ -27,3 +28,5 @@ export default function Dashboard() {
   </div>
   );*/
 }
+
+export {Dashboard}

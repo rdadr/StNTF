@@ -1,9 +1,9 @@
 import React from 'react';
 import '../../../App.css';
 import '../../Button/Button.css';
-import './Sign.css'
+import './SignUp.css'
 
-export default function SignUp() {
+const SignUp=() => {
   return(  
     <div  className='sign'>
   <h4 >From quality to loyalty!</h4>
@@ -23,10 +23,12 @@ export default function SignUp() {
           <input type="password" placeholder="repeat password" required/>
           <br/>
           <hr/>
-          <h6>By creating an account you agree to our <br/>
-            <a href="https://rdadr.github.io/Star_IT" rel="noreferrer" target="_blank">Terms & Privacy</a></h6>
-          <button className='warning-btn' type="submit" target="_blank">Sign Up</button>
+          <h6>By creating an account you agree to our </h6>
+          <br/>
+          <button className='warning-btn' type="submit" >Sign Up</button>
           </form>
         </div>
   );
 }
+
+export {SignUp}

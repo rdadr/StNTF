@@ -1,9 +1,12 @@
 import React from 'react';
+import './Marketing.css'
 
-export default function Marketing() {
+const Marketing =()=> {
   return (
     <>
       <h1 className='marketing'>MARKETING</h1>
     </>
   );
 }
+
+export {Marketing}
