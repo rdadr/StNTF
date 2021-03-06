@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/StNTF/static/css/main.8dcb591b.chunk.css",
-    "main.js": "/StNTF/static/js/main.7688f8cf.chunk.js",
-    "main.js.map": "/StNTF/static/js/main.7688f8cf.chunk.js.map",
+    "main.css": "/StNTF/static/css/main.8d40b8df.chunk.css",
+    "main.js": "/StNTF/static/js/main.7680cb24.chunk.js",
+    "main.js.map": "/StNTF/static/js/main.7680cb24.chunk.js.map",
     "runtime-main.js": "/StNTF/static/js/runtime-main.36b2f659.js",
     "runtime-main.js.map": "/StNTF/static/js/runtime-main.36b2f659.js.map",
-    "static/js/2.723b09fc.chunk.js": "/StNTF/static/js/2.723b09fc.chunk.js",
-    "static/js/2.723b09fc.chunk.js.map": "/StNTF/static/js/2.723b09fc.chunk.js.map",
+    "static/js/2.38c2e76d.chunk.js": "/StNTF/static/js/2.38c2e76d.chunk.js",
+    "static/js/2.38c2e76d.chunk.js.map": "/StNTF/static/js/2.38c2e76d.chunk.js.map",
     "index.html": "/StNTF/index.html",
-    "precache-manifest.0cc8631e32c7587ae27760f6ff2d68b2.js": "/StNTF/precache-manifest.0cc8631e32c7587ae27760f6ff2d68b2.js",
+    "precache-manifest.86a630e516af00f9bd8ed731546caf0d.js": "/StNTF/precache-manifest.86a630e516af00f9bd8ed731546caf0d.js",
     "service-worker.js": "/StNTF/service-worker.js",
-    "static/css/main.8dcb591b.chunk.css.map": "/StNTF/static/css/main.8dcb591b.chunk.css.map",
-    "static/js/2.723b09fc.chunk.js.LICENSE.txt": "/StNTF/static/js/2.723b09fc.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/StNTF/static/media/img-6.bd11375f.jpg"
+    "static/css/main.8d40b8df.chunk.css.map": "/StNTF/static/css/main.8d40b8df.chunk.css.map",
+    "static/js/2.38c2e76d.chunk.js.LICENSE.txt": "/StNTF/static/js/2.38c2e76d.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/StNTF/static/media/img-1.1cd62fa8.jpg",
+    "static/media/Services.css": "/StNTF/static/media/img-2.a6429dcc.jpg",
+    "static/media/Products.css": "/StNTF/static/media/img-3.66001cf8.jpg",
+    "static/media/Dashboard.css": "/StNTF/static/media/img-4.3ea99f60.jpg",
+    "static/media/Consulting.css": "/StNTF/static/media/img-5.65b53910.jpg",
+    "static/media/Marketing.css": "/StNTF/static/media/img-6.bd11375f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.36b2f659.js",
-    "static/js/2.723b09fc.chunk.js",
-    "static/css/main.8dcb591b.chunk.css",
-    "static/js/main.7688f8cf.chunk.js"
+    "static/js/2.38c2e76d.chunk.js",
+    "static/css/main.8d40b8df.chunk.css",
+    "static/js/main.7680cb24.chunk.js"
   ]
 }
